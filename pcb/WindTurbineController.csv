@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"MUB_v1";1;"MUBv1";;;
+2;"D2,D1";"TO-269AA";2;"D_Bridge_+-AA";;;
+3;"J6,J7";"MountingHole_2.2mm_M2";2;"Conn_01x01";;;
+4;"C1";"C_Radial_D10.0mm_H16.0mm_P5.00mm";1;"220uF";;;
+5;"J1,J2,J4";"PinHeader_1x02_P2.54mm_Vertical";3;"Conn_01x02";;;
+6;"U5";"SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.514x3.2mm";1;"RT8279GSP";;;
+7;"U3,U2";"SOT-23-6";2;"TLV493D";;;
+8;"IC2,IC1";"SON50P200X200X80-9N";2;"DRV8220DSGR";;;
+9;"C5";"C_0402_1005Metric";1;"10nF";;;
+10;"U4";"X2-DFN1410-4";1;"AH1388";;;
+11;"C4";"C_0402_1005Metric";1;"82pF";;;
+12;"R1,R2,R4";"R_0603_1608Metric";3;"11.3k";;;
+13;"J3,J5";"PinHeader_1x04_P2.54mm_Vertical";2;"Conn_01x04";;;
+14;"C3,C2,C6";"C_0805_2012Metric";3;"10uF";;;
+15;"R3";"R_0603_1608Metric";1;"100k";;;
+16;"L1";"PCC-M105xx";1;"L";;;
