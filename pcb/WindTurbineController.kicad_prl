@@ -1,12 +1,13 @@
 {
   "board": {
-    "active_layer": 0,
-    "active_layer_preset": "All Layers",
+    "active_layer": 31,
+    "active_layer_preset": "All Copper Layers",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
+      "images": 0.6,
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
@@ -60,9 +61,11 @@
       33,
       34,
       35,
-      36
+      36,
+      39,
+      40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "0001000_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
@@ -70,6 +73,19 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "WindTurbineController.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 32,
+          "size_x": 1280,
+          "size_y": 832
+        }
+      }
+    ]
   }
 }
